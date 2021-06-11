@@ -56,25 +56,6 @@
 			]
 		},
 		{
-			"name": "Zakopiańczyk",
-			"stops": [
-				{
-					"station": "Warszawa",
-					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
-				},
-				{
-					"station": "Zakopane",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
-				}
-			]
-		},
-		{
 			"name": "Golden Arrow",
 			"stops": [
 				{
